@@ -4,4 +4,4 @@
 ![Rick dalton himself](https://media0.giphy.com/media/igPdPWOEEMCXzOSeRi/giphy.gif?cid=ecf05e473v4dg4po14zclf8m2ikg35i3xtzpoie4v2m8ecov&rid=giphy.gif&ct=g)
 <br>
 <hr>
-Tools used: **figma
+Tools used: figma
